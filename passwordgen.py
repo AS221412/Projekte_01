@@ -48,9 +48,3 @@ for char in passwordList:
 
 print(f"dein Passwort lautet :{password}")
 
-#-----------------------------------------------------------------------------
-# merke : for in range(1,xy +1 ) wird verwendet wenn es sich um eine
-# sequenz also eine normale int variable geht
-# wenn es aber darum geht jedes einzelne ELEMENT in einer Liste zu durchlaufen
-# dann ganz normal for in ListName verwenden
-#-----------------------------------------------------------------------------
